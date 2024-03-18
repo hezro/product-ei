@@ -1706,7 +1706,7 @@
         <carbon.commons.version>4.7.31</carbon.commons.version>
 
         <!-- Carbon Deployment version-->
-        <carbon.deployment.version>4.9.15</carbon.deployment.version>
+        <carbon.deployment.version>4.12.21</carbon.deployment.version>
         <carbon-deployment.feature.imp.version>${carbon.deployment.version}</carbon-deployment.feature.imp.version>
 
         <!-- Carbon Registry version-->
