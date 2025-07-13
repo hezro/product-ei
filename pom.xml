@@ -1824,7 +1824,7 @@
         <commons-digester.version>2.1</commons-digester.version>
         <hawtbuf.version>1.9</hawtbuf.version>
         <ca.uhn.hapi.wso2.version>2.1.0.wso2v1</ca.uhn.hapi.wso2.version>
-        <opensaml.version>2.2.3</opensaml.version>
+        <opensaml.version>2.6.0</opensaml.version>
         <ibatis-core.version>3.0</ibatis-core.version>
         <javax.ws.rs.version>1.1.1</javax.ws.rs.version>
         <jersey-client.version>1.8</jersey-client.version>
