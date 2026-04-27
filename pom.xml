@@ -1819,7 +1819,7 @@
         <org.eclipse.paho.version>0.4.0</org.eclipse.paho.version>
         <org.apache.geronimo.specs.version>1.0.1</org.apache.geronimo.specs.version>
 
-        <commons-codec.version>1.12</commons-codec.version>
+        <commons-codec.version>1.21.0</commons-codec.version>
         <bouncycastle.version>1.61</bouncycastle.version>
         <commons-digester.version>2.1</commons-digester.version>
         <hawtbuf.version>1.9</hawtbuf.version>
