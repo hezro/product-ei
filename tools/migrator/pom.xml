@@ -170,6 +170,6 @@
         <carbon.ndatasource.version>4.4.11</carbon.ndatasource.version>
         <carbon.deployment.version>4.7.11</carbon.deployment.version>
         <carbon.analytics.common.version>5.1.52</carbon.analytics.common.version>
-        <pax.logging.api.version>1.10.1</pax.logging.api.version>
+        <pax.logging.api.version>1.12.17</pax.logging.api.version>
     </properties>
 </project>
